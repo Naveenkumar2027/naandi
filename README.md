@@ -56,37 +56,6 @@
 - Vendor profiles with complete information
 - Contact forms
 
----
-
-## 🎬 Screenshots
-
-> **Note**: Add screenshots of your application here to showcase each feature
-
-### Home Page
-![Home Page](#)
-*Landing page with hero section and featured services*
-
-### Categories Page
-![Categories](#)
-*Browse services by category - Catering, Photography, Venues, Decor, and more*
-
-### Vendor Profile
-![Vendor Profile](#)
-*Detailed vendor information, services, and contact options*
-
-### Admin Dashboard
-![Admin Dashboard](#)
-*Platform management and analytics*
-
-### Vendor Dashboard
-![Vendor Dashboard](#)
-*Manage your business, services, and bookings*
-
-### Wedding Planning
-![Weddings](#)
-*Plan and organize your perfect wedding day*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -268,5 +237,6 @@ Mobile-first approach with TailwindCSS breakpoints for optimal viewing on all de
 <div align="center">
   <strong>⭐ Star this repo if you find it helpful! ⭐</strong>
 </div>
+
 
 
