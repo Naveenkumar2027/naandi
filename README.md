@@ -1,4 +1,4 @@
-# 💍 Naandi - Wedding & Event Management Platform
+# 💍 Naandi - Event Management Platform
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -28,7 +28,7 @@
 ## ✨ Features
 
 ### 🎭 Multi-Role System
-- **Guest/Couple Portal**: Browse services, register, and plan weddings
+- **Guest/Client Portal**: Browse services, register, and plan weddings
 - **Vendor Dashboard**: Manage profiles, services, and bookings
 - **Admin Dashboard**: Platform management and oversight
 
@@ -268,4 +268,5 @@ Mobile-first approach with TailwindCSS breakpoints for optimal viewing on all de
 <div align="center">
   <strong>⭐ Star this repo if you find it helpful! ⭐</strong>
 </div>
+
 
