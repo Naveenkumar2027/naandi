@@ -250,56 +250,22 @@ Mobile-first approach with TailwindCSS breakpoints for optimal viewing on all de
 
 ## 🔮 Future Enhancements
 
-- [ ] Real-time chat between couples and vendors
-- [ ] Advanced search filters (price, location, rating)
-- [ ] Booking calendar system
+- [x] Real-time chat between couples and vendors
+- [x] Advanced search filters (price, location, rating)
+- [x] Booking calendar system
 - [ ] Payment gateway integration
 - [ ] Review and rating system
 - [ ] Email notifications
-- [ ] Photo gallery with lightbox
+- [x] Photo gallery with lightbox
 - [ ] Multi-language support
-- [ ] Analytics dashboard for vendors
-- [ ] Mobile app (React Native)
+- [x] Analytics dashboard for vendors
+- [] Mobile app (React Native)
 
----
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Developer
-
-**Naveen Kumar**
-- GitHub: [@Naveenkumar2027](https://github.com/Naveenkumar2027)
-- Email: m.naveenkumar6360@gmail.com
-- LinkedIn: [Connect with me](#)
-
----
-
-## 🙏 Acknowledgments
-
-- React team for the amazing library
-- Vite for lightning-fast dev experience
-- TailwindCSS for utility-first styling
-- MongoDB for flexible data storage
-- All contributors and supporters
-
----
 
 <div align="center">
   <strong>⭐ Star this repo if you find it helpful! ⭐</strong>
 </div>
+
